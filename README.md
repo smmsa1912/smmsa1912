@@ -54,10 +54,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-<p align="center">
-  <img src="https://github.com/smmsa1912/smmsa1912/blob/output/github-contribution-grid-snake.svg">
-</p>
+## 🐍 GitHub Contributions
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smmsa1912&theme=github-dark-dimmed)]
 
 ---
 
