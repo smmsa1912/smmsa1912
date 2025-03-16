@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there, I'm Andrew Neil 👋  
+  Hi there, I'm Andrew Neil  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=blue&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;AI+%26+Web+Development+Enthusiast;Learning+Trading+%26+Technical+Analysis;Blockchain+%26+Flutter+Explorer;Python+%7C+Django+%7C+Machine+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=blue&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;AI+%26+Web+Development+Enthusiast;Learning+Trading+%26+Technical+Related;Blockchain+%26+Flutter+Explorer;Python+%7C+Django+%7C+Machine+Learning+🚀" />
 </p>
 
 ---
