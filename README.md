@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @smmsa1912
-- 👀 I’m interested in Coding, Programming 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Andrew Neil
 
 <!---
 smmsa1912/smmsa1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
